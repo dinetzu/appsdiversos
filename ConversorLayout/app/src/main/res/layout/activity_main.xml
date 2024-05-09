@@ -39,7 +39,8 @@
         android:layout_height="wrap_content"
         android:textSize="30sp"
         android:gravity="center"
-        android:text="Diana Ferreira de Almeida, n°6 - 1202"/>
+        android:text="Diana Ferreira de Almeida, n°6 - 1202"
+        android:fontFamily="serif"/>
 
 
 </LinearLayout>
